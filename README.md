@@ -2,6 +2,7 @@
 [Follow me (https://www.linkedin.com/in/pranjalimishra3719/)]
 
 pandas.DataFrame.cov
+
 pandas.DataFrame.cummax
 pandas.DataFrame.cummin
 pandas.DataFrame.cumprod
