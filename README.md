@@ -30,3 +30,5 @@ How to Create and Validate Modern Web Forms with HTML5(https://www.freecodecamp.
 ML / DS Roadmap + Resources(https://chlorinated-tarsal-7a0.notion.site/ML-DS-Roadmap-Resources-2b17643c5fc74766b48020fdf3ba0d84)
 
 Designing a Database for a Recruitment System(https://vertabelo.com/blog/design_patterns/)
+
+(https://www.inettutor.com/tag/er-diagram/page/5/)
