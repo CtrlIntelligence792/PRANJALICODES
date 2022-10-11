@@ -32,3 +32,5 @@ ML / DS Roadmap + Resources(https://chlorinated-tarsal-7a0.notion.site/ML-DS-Roa
 Designing a Database for a Recruitment System(https://vertabelo.com/blog/design_patterns/)
 
 (https://www.inettutor.com/tag/er-diagram/page/5/)
+
+(https://www.w3schools.com/)
