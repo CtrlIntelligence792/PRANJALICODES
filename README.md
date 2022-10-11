@@ -34,3 +34,7 @@ Designing a Database for a Recruitment System(https://vertabelo.com/blog/design_
 (https://www.inettutor.com/tag/er-diagram/page/5/)
 
 (https://www.w3schools.com/)
+
+Practical Deep Learning(https://course.fast.ai/)
+
+java-oop-concepts-cheat-sheet(https://javaconceptoftheday.com/java-oop-concepts-cheat-sheet/)
