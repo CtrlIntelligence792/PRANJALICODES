@@ -18,3 +18,11 @@ regression-trees-step-by-step(https://towardsdatascience.com/regression-trees-st
 final-year-projects-for-cse(https://www.crio.do/blog/final-year-projects-for-cse/)
 
 Coding For SEO(https://www.searchenginejournal.com/10-ways-coding-can-help-your-seo/45402/)
+
+How to Create and Validate Modern Web Forms with HTML5(https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/)
+
+(https://leetcode.com/)
+
+(https://www.hackerrank.com/)
+
+(https://www.stratascratch.com/)
