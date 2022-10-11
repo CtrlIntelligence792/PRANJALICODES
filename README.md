@@ -38,3 +38,7 @@ Designing a Database for a Recruitment System(https://vertabelo.com/blog/design_
 Practical Deep Learning(https://course.fast.ai/)
 
 java-oop-concepts-cheat-sheet(https://javaconceptoftheday.com/java-oop-concepts-cheat-sheet/)
+
+High-Performance Computing HPC And Its Applications(https://www.marktechpost.com/2022/08/27/high-performance-computing-hpc-and-its-applications/)
+
+(https://papers.aman.ai/)
